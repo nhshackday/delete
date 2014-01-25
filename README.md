@@ -1,4 +1,2 @@
-wiki
-====
 
-New NHS Hackday Wiki
+Visit the [wiki](https://github.com/nhshackday/wiki/wiki)
